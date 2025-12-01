@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Patrícia Fiori
 
-- Sou fotógrafa e estou em transição de carreira para a área tecnológica
-- Cursando o 2º ano de Sistemas de Informação na Faculdade Nove de Julho (UniNove)
+- Estou em transição de carreira para a área tecnológica
+- Cursando o 3º ano de Sistemas de Informação na Faculdade Nove de Julho (UniNove)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paty-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
