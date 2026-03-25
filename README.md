@@ -1,7 +1,12 @@
 ## Olá! Eu sou a Patrícia Fiori
 
-- Estou em transição de carreira para a área tecnológica
-- Cursando o 3º ano de Sistemas de Informação na Faculdade Nove de Julho (UniNove)
+Sou uma profissional com experiência em Pedagogia, iniciei minha transição de carreira para a área de Tecnologia, movida pelo desejo de aprender, evoluir e atuar com qualidade em produtos digitais. Hoje, estou me especializando como Analista de Testes (QA), unindo experiência humana e visão técnica. Estou cursando o sétimo semestre de Sistemas de Informação. 
+
+Minha trajetória na Educação desenvolveu habilidades essenciais para a área de Qualidade: comunicação clara, atenção aos detalhes, organização e forte capacidade de documentação. Tenho facilidade na escrita de casos de teste, elaboração de planos de teste e registro de bugs, sempre com foco na experiência do usuário.
+
+Possuo conhecimento em testes funcionais, regressão e exploratórios, além de familiaridade com ferramentas como Jira e noções de automação com Cypress.
+
+Sou curiosa, dedicada e colaborativa. Busco uma oportunidade para contribuir com qualidade, responsabilidade e entusiasmo.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paty-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
